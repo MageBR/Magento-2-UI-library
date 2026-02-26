@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magento2-ui-library.rafaelcg.com/sitemap.xml

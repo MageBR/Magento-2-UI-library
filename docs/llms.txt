@@ -1,0 +1,43 @@
+# Magento UI Library
+
+> Human and AI-readable map of the Magento UI Library documentation website.
+
+## Summary
+Magento UI Library provides reusable LESS mixins, variables, and UI implementation examples for Magento frontend themes.
+
+## Primary URL
+https://magento2-ui-library.rafaelcg.com/
+
+## Key Documentation Pages
+- https://magento2-ui-library.rafaelcg.com/actions-toolbar.html
+- https://magento2-ui-library.rafaelcg.com/breadcrumbs.html
+- https://magento2-ui-library.rafaelcg.com/buttons.html
+- https://magento2-ui-library.rafaelcg.com/components.html
+- https://magento2-ui-library.rafaelcg.com/docs.html
+- https://magento2-ui-library.rafaelcg.com/dropdowns.html
+- https://magento2-ui-library.rafaelcg.com/forms.html
+- https://magento2-ui-library.rafaelcg.com/icons.html
+- https://magento2-ui-library.rafaelcg.com/
+- https://magento2-ui-library.rafaelcg.com/layout.html
+- https://magento2-ui-library.rafaelcg.com/lib.html
+- https://magento2-ui-library.rafaelcg.com/loaders.html
+- https://magento2-ui-library.rafaelcg.com/messages.html
+- https://magento2-ui-library.rafaelcg.com/pages.html
+- https://magento2-ui-library.rafaelcg.com/popups.html
+- https://magento2-ui-library.rafaelcg.com/rating.html
+- https://magento2-ui-library.rafaelcg.com/resets.html
+- https://magento2-ui-library.rafaelcg.com/responsive.html
+- https://magento2-ui-library.rafaelcg.com/sections.html
+- https://magento2-ui-library.rafaelcg.com/tables.html
+- https://magento2-ui-library.rafaelcg.com/tooltips.html
+- https://magento2-ui-library.rafaelcg.com/typography.html
+- https://magento2-ui-library.rafaelcg.com/utilities.html
+- https://magento2-ui-library.rafaelcg.com/variables.html
+
+## Focus Areas
+- LESS mixins and variables
+- UI components and frontend patterns
+- Responsive and accessible theme implementation
+
+## License
+OSL-3.0 (see project license files for details).
